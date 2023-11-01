@@ -2,7 +2,7 @@ function Mission() {
     return ( 
         <div className="col-12">
             <h2>Mission</h2>
-            <img src="./assets/mars-mission.jpg" alt="Mars" className="img-fluid" />
+            <img src="./mars-mission.jpg" alt="Mars" className="img-fluid" />
             <h3>Key Details</h3>
             <p>Mission Name: Mars 2020<br />
             Rover Name: Perseverance<br />
